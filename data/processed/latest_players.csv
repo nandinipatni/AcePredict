@@ -1,0 +1,585 @@
+tourney_date,player_name,rank,rank_points,age
+2024-01-01,Chak Lam Coleman Wong,,,19.5
+2024-01-01,Steven Diez,314.0,170.0,32.7
+2024-01-15,Dane Sweeny,257.0,228.0,22.9
+2024-01-15,Jason Kubler,113.0,561.0,30.6
+2024-01-15,Jiri Vesely,293.0,188.0,30.5
+2024-01-29,Antoine Escoffier,172.0,354.0,31.9
+2024-02-02,Matavao Fanguna,,,27.2
+2024-02-02,Heve Kelley,,,26.8
+2024-02-02,Gillian Osmont,,,20.7
+2024-02-02,Matic Kriznik,1274.0,5.0,18.4
+2024-02-02,Maxim Shin,1469.0,3.0,20.6
+2024-02-02,Sebastian Dominko,1107.0,8.0,20.7
+2024-02-02,Martins Rocens,1763.0,1.0,23.8
+2024-02-02,Lukas Pokorny,589.0,60.0,21.9
+2024-02-02,Diego Duran,,,
+2024-02-02,Altug Celikbilek,371.0,131.0,27.3
+2024-02-02,Nam Hoang Ly,554.0,67.0,26.9
+2024-02-02,Linh Giang Trinh,,,26.4
+2024-02-02,Rodrigo Crespo Piedra,,,22.6
+2024-02-02,Jesse Flores,900.0,18.0,28.8
+2024-02-02,Karl Friberg,364.0,134.0,24.8
+2024-02-02,Kevin Krawietz,,,32.0
+2024-02-02,Emilio Gomez,307.0,175.0,32.1
+2024-02-03,Juan Carlos Prado Angelo,605.0,56.0,18.8
+2024-02-03,Boris Arias,,,30.2
+2024-02-03,Niki Kaliyanda Poonacha,795.0,27.0,28.7
+2024-02-03,Lucas Miedler,1071.0,9.0,27.6
+2024-02-03,Ricardas Berankis,248.0,238.0,33.6
+2024-02-03,Luca Preda,1099.0,8.0,17.8
+2024-02-03,Aisam Ul Haq Qureshi,,,43.8
+2024-02-03,Wishaya Trongcharoenchaikul,780.0,29.0,28.8
+2024-02-03,Nicholas David Ionel,265.0,219.0,21.2
+2024-02-03,Marius Copil,283.0,198.0,33.2
+2024-02-03,Joris De Loore,192.0,317.0,30.7
+2024-02-03,Yu Hsiou Hsu,230.0,266.0,24.8
+2024-02-03,Dimitar Kuzmanov,225.0,269.0,30.5
+2024-02-03,Petros Chrysochos,1410.0,3.0,27.8
+2024-02-03,Menelaos Efstathiou,1222.0,6.0,24.9
+2024-02-03,Benjamin Lock,348.0,144.0,30.9
+2024-02-03,Benedict Badza,,,18.6
+2024-02-03,Hong Kit Jack Wong,1643.0,2.0,25.4
+2024-02-03,Kwok Shun Dasson Chan,,,18.5
+2024-02-03,Komlavi Loglo,,,39.0
+2024-02-03,Anthony Susanto,,,26.6
+2024-02-03,Hamza Karmoussi,,,
+2024-02-05,Adam Neff,829.0,23.0,22.6
+2024-02-05,Steve Johnson,246.0,240.0,34.1
+2024-02-05,Tennys Sandgren,281.0,200.0,32.5
+2024-02-26,Ernesto Escobedo,493.0,82.0,27.6
+2024-03-04,Bernabe Zapata Miralles,144.0,457.0,27.1
+2024-03-15,Hamid Reza Nadaf,1588.0,2.0,31.2
+2024-03-15,Sina Moghimi,1086.0,9.0,22.6
+2024-04-01,Denis Kudla,160.0,409.0,31.6
+2024-04-01,David Jorda Sanchis,329.0,159.0,29.7
+2024-04-01,Joao Sousa,272.0,209.0,35.0
+2024-04-15,Daniel Rincon,216.0,283.0,21.2
+2024-04-15,Max Hans Rehberg,473.0,87.0,20.5
+2024-05-20,Sebastian Fanselow,316.0,166.0,32.3
+2024-05-20,Nikolas Sanchez Izquierdo,260.0,221.0,25.1
+2024-05-20,Javier Barranco Cosano,254.0,233.0,25.5
+2024-06-10,Matteo Martineau,179.0,344.0,25.3
+2024-06-10,Tim Van Rijthoven,,,27.1
+2024-06-17,Andy Murray,129.0,498.0,37.0
+2024-06-17,Oscar Otte,474.0,92.0,30.9
+2024-06-24,Giles Hussey,359.0,141.0,27.0
+2024-06-24,Gijs Brouwer,190.0,317.0,28.2
+2024-07-01,Paul Jubb,201.0,301.0,24.6
+2024-07-01,Liam Broady,156.0,384.0,30.4
+2024-07-01,Maxime Janvier,225.0,269.0,27.7
+2024-07-01,Charles Broom,248.0,242.0,26.1
+2024-07-15,Nick Hardt,191.0,313.0,23.8
+2024-07-15,Rudolf Molleker,197.0,309.0,23.7
+2024-07-15,Stefano Napolitano,125.0,497.0,29.2
+2024-07-15,Pedro Cachin,110.0,568.0,29.2
+2024-07-15,Marc Polmans,217.0,278.0,27.2
+2024-07-15,Benoit Paire,227.0,261.0,35.1
+2024-07-22,Guido Andreozzi,406.0,118.0,32.9
+2024-07-22,Andres Martin,483.0,86.0,23.0
+2024-07-22,Enzo Couacaud,205.0,292.0,29.3
+2024-07-22,Luka Mikrut,350.0,143.0,20.2
+2024-07-22,Andrea Collarini,264.0,213.0,32.4
+2024-07-29,Petros Tsitsipas,,,24.0
+2024-07-29,Francisco Cabral,,,27.5
+2024-07-29,Robin Haase,1199.0,7.0,37.3
+2024-07-29,Maxime Cressy,173.0,345.0,27.2
+2024-07-29,Milos Raonic,177.0,340.0,33.5
+2024-07-29,Matthew Ebden,,,36.6
+2024-07-29,J J Wolf,143.0,436.0,25.6
+2024-08-19,Strong Kirchheimer,511.0,77.0,29.3
+2024-08-19,Omni Kumar,433.0,101.0,22.8
+2024-08-26,Max Purcell,97.0,585.0,26.3
+2024-08-26,Matthew Forbes,1848.0,1.0,18.3
+2024-09-13,Seong Chan Hong,141.0,413.0,27.1
+2024-09-13,Murkel Alejandro Dellien Velasco,183.0,324.0,26.9
+2024-09-13,Juan Pablo Varillas,179.0,331.0,28.9
+2024-09-13,Cem Ilkel,474.0,87.0,29.0
+2024-09-13,Mate Valkusz,402.0,117.0,26.0
+2024-09-13,Min Kyu Song,,,34.0
+2024-09-13,Kristjan Tamm,978.0,15.0,26.2
+2024-09-13,Conor Gannon,1294.0,5.0,22.2
+2024-09-13,Skander Mansouri,681.0,41.0,29.1
+2024-09-13,Rigele Te,636.0,48.0,26.9
+2024-09-13,Gabi Adrian Boitan,364.0,136.0,25.1
+2024-09-14,Ioannis Xilas,770.0,29.0,23.3
+2024-09-14,Demetris Azoides,1054.0,12.0,23.9
+2024-09-14,Siddharth Vishwakarma,588.0,57.0,29.9
+2024-09-14,N Sriram Balaji,,,34.4
+2024-09-14,Ki Lung Ng,2102.0,1.0,23.1
+2024-09-14,Marcos Lee Chan Baratau,1320.0,5.0,18.8
+2024-09-14,Jack Cheng,1600.0,2.0,15.6
+2024-09-14,Yousaf Khalil,,,25.4
+2024-09-14,Muhammad Shoaib,,,22.5
+2024-09-14,Philip Hjorth,880.0,20.0,25.5
+2024-09-14,Aqeel Khan,,,44.6
+2024-09-14,Jose Rubin Statham,837.0,23.0,37.3
+2024-09-14,Henri Squire,187.0,314.0,23.9
+2024-09-14,Davis Rolis,,,19.6
+2024-09-14,Alan Fernando Rubio Fierros,707.0,38.0,25.5
+2024-09-14,Gonzalo Escobar,,,35.6
+2024-09-14,Hugo Nys,,,33.5
+2024-09-18,Yasutaka Uchiyama,160.0,370.0,32.1
+2024-10-02,Egor Gerasimov,304.0,170.0,31.8
+2024-10-14,Alexey Vatutin,336.0,148.0,31.9
+2024-10-14,Aslan Karatsev,139.0,425.0,31.1
+2024-10-21,Dominic Thiem,318.0,162.0,31.1
+2024-11-04,Theo Papamalamis,721.0,37.0,18.8
+2024-11-19,Rafael Nadal,154.0,380.0,38.4
+2024-12-30,Alejandro Moro Canas,169.0,345.0,24.0
+2025-01-06,Isaac Becroft,980.0,15.0,24.1
+2025-01-13,Omar Jasika,179.0,323.0,27.6
+2025-01-13,Gauthier Onclin,239.0,242.0,23.8
+2025-01-13,Thanasi Kokkinakis,71.0,766.0,28.7
+2025-01-27,Dominik Koepfer,118.0,515.0,30.7
+2025-01-27,Lucas Pouille,104.0,575.0,30.9
+2025-01-27,Gregoire Barrere,144.0,406.0,30.9
+2025-01-27,Mikhail Kukushkin,112.0,541.0,37.0
+2025-01-31,Tsung Hao Huang,680.0,42.0,25.1
+2025-01-31,San Hui Sin,665.0,44.0,27.8
+2025-01-31,Gerard Campana Lee,381.0,127.0,20.3
+2025-01-31,Daniel Masur,265.0,202.0,30.2
+2025-01-31,Yshai Oliel,531.0,69.0,25.0
+2025-01-31,Jozef Kovalik,127.0,484.0,32.2
+2025-01-31,John Peers,,,36.5
+2025-01-31,Courtney John Lock,2068.0,1.0,28.2
+2025-01-31,Saba Purtseladze,450.0,93.0,23.4
+2025-01-31,Aleksa Krivokapic,,,21.7
+2025-01-31,Petar Jovanovic,938.0,17.0,21.5
+2025-01-31,Abdulmalek Burasais,,,33.2
+2025-01-31,Abdulmajeed Bukhari,,,25.9
+2025-01-31,Ammar Faleh Alhogbani,,,
+2025-01-31,Saud Alhogbani,,,22.0
+2025-01-31,Ricardo Rodriguez,1114.0,10.0,31.7
+2025-01-31,Ignacio Parisca,818.0,26.0,19.4
+2025-01-31,Thanapet Chanta,706.0,38.0,25.3
+2025-01-31,Kasidit Samrej,423.0,109.0,24.0
+2025-01-31,Maximus Jones,714.0,37.0,20.3
+2025-01-31,Mirza Basic,563.0,62.0,33.5
+2025-01-31,Petr Nesterov,437.0,100.0,21.8
+2025-01-31,Xavier Lawrence,,,26.0
+2025-01-31,Maks Kasnikowski,217.0,270.0,21.5
+2025-01-31,Martyn Pawelski,775.0,31.0,20.2
+2025-01-31,Conner Huertas Del Pino,794.0,28.0,29.1
+2025-01-31,Cezar Cretu,315.0,164.0,23.7
+2025-01-31,Iliyan Radulov,533.0,69.0,19.6
+2025-01-31,Adrian Andreev,233.0,255.0,23.7
+2025-01-31,Oleksandr Ovcharenko,311.0,166.0,23.2
+2025-01-31,Ethan Denzel Sibanda,,,20.6
+2025-01-31,Duje Ajdukovic,158.0,354.0,23.9
+2025-01-31,Ofek Shimanov ,1226.0,7.0,19.5
+2025-01-31,Maxim Mrva,881.0,20.0,17.4
+2025-01-31,Ronan Tashinga Mtisi,,,17.1
+2025-01-31,Jie Cui,280.0,188.0,27.0
+2025-01-31,Freddy Murray,1869.0,1.0,21.5
+2025-01-31,Ammar Elamin,1367.0,5.0,22.6
+2025-01-31,Osgar Ohoisin,1288.0,6.0,28.3
+2025-01-31,Markus Molder,1116.0,10.0,19.7
+2025-01-31,Oliver Ojakaar,942.0,17.0,19.9
+2025-01-31,Andreas Timini,2068.0,1.0,18.5
+2025-02-01,Karim Mohamed Maamoun,882.0,20.0,33.8
+2025-02-01,Amr Elsayed Abdou Ahmed Mohamed,660.0,45.0,25.9
+2025-02-01,Liova Ayite Ajavon,,,25.6
+2025-02-01,Thomas Yaka Kofi Setodji,1256.0,6.0,29.2
+2025-02-01,Ahmad Nael Qureshi,,,18.5
+2025-02-01,Christos Antonopoulos,1640.0,2.0,26.5
+2025-02-01,Benjamin Balleret,,,42.0
+2025-02-01,Philip Henning,329.0,154.0,24.2
+2025-02-01,Matheus Pucinelli De Almeida,302.0,173.0,23.8
+2025-02-01,Lucky Candra Kurniawan,,,21.1
+2025-02-01,Gunawan Trismuwantara,,,22.0
+2025-02-01,Fitriadi M Rifqi,943.0,17.0,26.0
+2025-02-01,Christopher Bulus,1018.0,13.0,24.1
+2025-02-01,Kris Van Wyk,358.0,138.0,28.3
+2025-02-01,David Ekpenyong,,,19.0
+2025-02-01,Rafael De Alba,,,
+2025-02-01,Eugenio Gonzalez Fitzmaurice,,,21.8
+2025-02-01,Daniels Tens,,,19.3
+2025-02-01,Atakan Karahan,1413.0,4.0,18.7
+2025-02-01,Mert Naci Turker,890.0,20.0,26.4
+2025-02-01,Raul Garcia,1599.0,2.0,22.8
+2025-02-01,Federico Zeballos,1573.0,2.0,36.6
+2025-02-01,Ilie Cazac,,,18.4
+2025-02-01,Blaise Bicknell,1078.0,11.0,23.1
+2025-02-01,Kiranpal Pannu,494.0,80.0,28.0
+2025-02-01,Ajeet Rai,485.0,82.0,26.0
+2025-02-01,Rowland Phillips,,,31.0
+2025-02-01,Andrei Gorban,,,41.5
+2025-02-01,Ilya Snitari,587.0,58.0,22.8
+2025-02-01,Aristotelis Thanos,592.0,57.0,23.8
+2025-02-01,Mohamed Safwat,460.0,90.0,34.3
+2025-02-01,Chun Hun Wong,,,29.2
+2025-02-01,Codie Schalk Van Schalkwyk,,,22.7
+2025-02-01,Connor Henry Van Schalkwyk,1124.0,9.0,20.1
+2025-02-01,Ramkumar Ramanathan,406.0,116.0,30.2
+2025-02-01,Karan Singh,496.0,79.0,21.5
+2025-02-01,Sasi Kumar Mukund,365.0,135.0,28.0
+2025-02-01,Robert Strombachs,407.0,116.0,25.3
+2025-02-01,Denis Yevseyev,264.0,204.0,31.6
+2025-02-01,Sylvestre Monnou,,,22.1
+2025-02-03,Mees Rottgering,839.0,24.0,17.5
+2025-02-03,Constant Lestienne,169.0,336.0,32.7
+2025-02-03,Trevor Svajda,669.0,43.0,18.7
+2025-02-03,Andrea Vavassori,317.0,163.0,29.7
+2025-02-10,Diego Schwartzman,386.0,124.0,32.4
+2025-02-10,Manuel Guinard,280.0,191.0,29.2
+2025-02-10,Clement Chidekh,189.0,317.0,23.6
+2025-02-10,Arthur Gea,306.0,171.0,20.1
+2025-02-10,Hugo Grenier,202.0,306.0,28.8
+2025-02-17,Abedallah Shelbayh,267.0,201.0,21.2
+2025-02-24,Gustavo Heide,160.0,359.0,22.9
+2025-02-24,Facundo Diaz Acosta,130.0,448.0,24.1
+2025-02-24,Felipe Meligeni Alves,194.0,307.0,27.0
+2025-02-24,Aziz Dougaz,212.0,265.0,27.9
+2025-03-05,Li Tu,177.0,326.0,28.7
+2025-03-19,Nick Kyrgios,892.0,20.0,29.8
+2025-03-31,Martin Klizan,316.0,165.0,35.7
+2025-03-31,Filip Cristian Jianu,241.0,229.0,23.5
+2025-03-31,Radu Albot,223.0,248.0,35.3
+2025-03-31,Corentin Denolly,328.0,159.0,27.8
+2025-03-31,Younes Lalami Laaroussi,1193.0,8.0,23.9
+2025-03-31,Federico Coria,126.0,464.0,33.0
+2025-03-31,Elliot Benchetrit,608.0,54.0,26.4
+2025-03-31,Pavel Kotov,107.0,573.0,26.3
+2025-03-31,Alexander Ritschard,125.0,466.0,31.0
+2025-03-31,Michael Mmoh,282.0,186.0,27.2
+2025-04-23,Harold Mayot,160.0,354.0,23.2
+2025-05-07,Nicolas Moreno De Alboran,149.0,386.0,27.8
+2025-05-18,Karue Sell,300.0,175.0,31.5
+2025-05-18,Ivan Gakhov,265.0,212.0,28.5
+2025-05-18,Diego Dedura Palomero,372.0,130.0,17.1
+2025-05-18,Borna Gojo,255.0,221.0,27.2
+2025-05-26,Maximilian Marterer,239.0,233.0,29.9
+2025-05-26,Albert Ramos,251.0,224.0,37.3
+2025-05-26,Richard Gasquet,166.0,339.0,38.9
+2025-05-26,Henrique Rocha,200.0,278.0,21.1
+2025-06-09,Hubert Hurkacz,32.0,1640.0,28.3
+2025-06-30,Christopher Eubanks,130.0,454.0,29.1
+2025-06-30,Alex Bolt,179.0,309.0,32.4
+2025-06-30,Johannus Monday,224.0,249.0,23.4
+2025-06-30,Jay Clarke,196.0,283.0,26.9
+2025-06-30,Oliver Crawford,248.0,229.0,26.1
+2025-06-30,Chris Rodesch,163.0,346.0,23.9
+2025-06-30,Henry Searle,421.0,106.0,19.2
+2025-06-30,Oliver Tarvet,733.0,36.0,21.6
+2025-06-30,Jack Pinnington Jones,281.0,196.0,22.2
+2025-06-30,George Loffhagen,293.0,185.0,24.1
+2025-06-30,Fabio Fognini,138.0,437.0,38.1
+2025-07-14,Patrick Zahraj,283.0,193.0,25.9
+2025-07-14,Calvin Hemery,171.0,331.0,30.4
+2025-07-14,Marco Trungelliti,147.0,396.0,35.4
+2025-07-14,Dominic Stricker,229.0,245.0,22.9
+2025-07-14,Andrea Pellegrino,139.0,437.0,28.3
+2025-07-14,Roman Andres Burruchaga,136.0,445.0,23.4
+2025-07-14,William Rejchtman Vinciguerra,1476.0,3.0,18.4
+2025-07-14,Thiago Monteiro,152.0,375.0,31.1
+2025-07-14,Alan Magadan,921.0,18.0,24.1
+2025-07-14,Govind Nanda,405.0,115.0,24.4
+2025-07-14,Luis Carlos Alvarez,784.0,29.0,20.8
+2025-07-14,Juan Alejandro Hernandez Serrano,493.0,82.0,26.0
+2025-07-14,Alibek Kachmazov,183.0,308.0,22.9
+2025-07-14,James Mccabe,164.0,341.0,22.0
+2025-07-14,Mitchell Krueger,159.0,352.0,31.5
+2025-07-20,Carlos Taberner,111.0,581.0,27.9
+2025-07-20,Mili Poljicak,277.0,193.0,21.0
+2025-07-20,Titouan Droguet,176.0,317.0,24.0
+2025-07-20,Dusan Lajovic,129.0,464.0,35.0
+2025-07-20,Matej Dodig,242.0,231.0,20.0
+2025-07-21,Joel Schwaerzler,354.0,140.0,19.4
+2025-07-21,Murphy Cassone,185.0,299.0,22.9
+2025-07-21,Daniel Evans,144.0,415.0,35.1
+2025-07-27,Vasek Pospisil,1250.0,6.0,35.0
+2025-07-27,Pierre Hugues Herbert,142.0,431.0,34.3
+2025-07-27,Dan Martin,,,26.2
+2025-07-27,Facundo Bagnis,689.0,44.0,35.4
+2025-07-27,Juan Pablo Ficovich,140.0,435.0,28.5
+2025-07-27,Nicolas Arseneault,638.0,51.0,18.5
+2025-07-27,Matteo Gigante,125.0,476.0,23.5
+2025-07-27,Alexis Galarneau,193.0,285.0,26.4
+2025-07-27,Arthur Fils,21.0,2130.0,21.1
+2025-08-07,Kei Nishikori,65.0,893.0,35.5
+2025-08-07,Patrick Kypson,212.0,258.0,25.7
+2025-08-07,Thiago Agustin Tirante,135.0,461.0,24.3
+2025-08-07,Colton Smith,138.0,453.0,22.4
+2025-08-25,Leandro Riedi,435.0,104.0,23.5
+2025-08-25,Darwin Blanch,364.0,136.0,17.9
+2025-08-25,Nicolas Jarry,102.0,628.0,29.8
+2025-08-25,Emilio Nava,101.0,640.0,23.7
+2025-08-25,Pablo Llamas Ruiz,361.0,136.0,22.8
+2025-08-25,Borna Coric,105.0,595.0,28.7
+2025-08-25,Daniel Elahi Galan,131.0,480.0,29.1
+2025-08-25,Roberto Carballes Baena,87.0,740.0,32.4
+2025-08-25,Brandon Holt,110.0,554.0,27.3
+2025-08-25,Federico Agustin Gomez,203.0,268.0,28.7
+2025-08-25,Roberto Bautista Agut,47.0,1075.0,37.3
+2025-08-25,Hugo Dellien,121.0,524.0,32.1
+2025-08-25,Stefan Dostanic,389.0,127.0,23.8
+2025-08-25,Tommy Paul,14.0,2610.0,28.2
+2025-08-25,Jack Draper,5.0,4440.0,23.6
+2025-08-25,Roman Safiullin,94.0,676.0,28.0
+2025-08-25,Tristan Boyer,113.0,546.0,24.3
+2025-08-25,Zachary Svajda,145.0,421.0,22.7
+2025-08-25,Lloyd Harris,353.0,139.0,28.4
+2025-08-25,Martin Damm,431.0,106.0,21.9
+2025-09-12,Soon Woo Kwon,478.0,89.0,27.7
+2025-09-12,Gonzalo Bueno,209.0,261.0,21.4
+2025-09-12,Dhakshineswar Suresh,626.0,54.0,25.4
+2025-09-12,Arda Azkara,551.0,67.0,22.4
+2025-09-12,Cleeve Harper,1029.0,13.0,24.7
+2025-09-12,Ignacio Buse,112.0,559.0,21.4
+2025-09-12,Liam Draxl,117.0,543.0,23.7
+2025-09-12,Yanki Erel,433.0,106.0,24.9
+2025-09-12,Olaf Pieczkowski,484.0,87.0,21.4
+2025-09-12,Tomasz Berkieta,545.0,70.0,19.1
+2025-09-12,Ergi Kirkin,479.0,89.0,26.6
+2025-09-12,Branko Djuric,461.0,93.0,20.5
+2025-09-12,Jerome Kym,155.0,387.0,22.5
+2025-09-12,Marc Andrea Huesler,222.0,248.0,29.2
+2025-09-12,Lukas Klein,121.0,531.0,27.4
+2025-09-12,Nicolas Mejia,200.0,267.0,25.5
+2025-09-12,Aziz Ouakaa,625.0,55.0,26.0
+2025-09-12,Sumit Nagal,290.0,179.0,28.0
+2025-09-12,Benjamin Hassan,196.0,270.0,30.5
+2025-09-12,Adria Soriano Barrera,331.0,152.0,26.2
+2025-09-12,Peter Bertran,655.0,50.0,29.5
+2025-09-12,Enmanuel Munoz,2171.0,1.0,20.6
+2025-09-12,Viacheslav Bielinskyi,378.0,132.0,21.7
+2025-09-12,Vladyslav Orlov,526.0,76.0,30.3
+2025-09-12,Ziga Sesko,,,17.1
+2025-09-12,Filip Jeff Planinsek,613.0,56.0,24.1
+2025-09-12,Rodrigo Pacheco Mendez,211.0,258.0,20.3
+2025-09-12,Hady Habib,172.0,317.0,27.0
+2025-09-12,Fadi Bidan,1238.0,7.0,19.6
+2025-09-12,Alex Santino Nunez Vera,1562.0,3.0,
+2025-09-12,Daniel Vallejo,,,41.3
+2025-09-12,Roberto Cid,337.0,151.0,32.0
+2025-09-12,Alex Molcan,201.0,266.0,27.7
+2025-09-12,Francisco Llanes,,,23.3
+2025-09-12,Joaquin  Aguilar Cardozo ,803.0,31.0,20.4
+2025-09-12,Norbert Gombos,325.0,160.0,35.0
+2025-09-12,Olle Wallin,410.0,118.0,23.8
+2025-09-12,Oleksii Krutykh,457.0,95.0,25.4
+2025-09-12,Luis Carlos Alvarez Valdes,,,
+2025-09-12,Daniil Glinka,304.0,168.0,25.3
+2025-09-12,Darian King,2118.0,1.0,33.3
+2025-09-12,Kaipo Marshall,,,23.4
+2025-09-12,Stephen Slocombe,1815.0,1.0,22.4
+2025-09-12,Huzaifa Abdul Rehman,,,22.7
+2025-09-12,Muzammil Murtaza,,,25.8
+2025-09-12,Martin Antonio Vergara Del Puerto,1724.0,2.0,21.3
+2025-09-12,Franco Roncadelli,372.0,135.0,25.5
+2025-09-12,Jaime Faria,115.0,552.0,22.0
+2025-09-12,Dmitry Popko,220.0,251.0,28.8
+2025-09-12,Zsombor Piros,154.0,390.0,25.9
+2025-09-12,Lukas Neumayer,173.0,317.0,23.0
+2025-09-12,Hyeon Chung,379.0,132.0,29.3
+2025-09-12,Bor Artnak,486.0,86.0,21.2
+2025-09-12,Orel Kimhi,787.0,32.0,22.0
+2025-09-12,Daniel Cukierman,1178.0,8.0,30.1
+2025-09-13,Kodjo Charles Alipoe Tchotchodji,,,23.1
+2025-09-13,Akram El Sallaly,,,27.8
+2025-09-13,Edas Butvilas,234.0,242.0,21.1
+2025-09-13,Pijus Vaitiekunas,1423.0,4.0,22.5
+2025-09-13,Leo Matthysen,,,19.1
+2025-09-13,Connor Doig,1509.0,3.0,
+2025-09-13,Marc Van Der Merwe,1086.0,11.0,31.0
+2025-09-13,Alec Beckley,607.0,57.0,24.2
+2025-09-13,Yassine Dlimi,777.0,33.0,22.3
+2025-09-13,Aleksandre Bakshi,642.0,53.0,28.1
+2025-09-13,James Watt,569.0,65.0,25.2
+2025-09-13,Michael Bassem Sobhy,842.0,27.0,21.3
+2025-09-13,Radu David Turcanu,660.0,49.0,19.4
+2025-09-13,Jack Loutit,1091.0,11.0,21.2
+2025-09-13,Vilius Gaubas,163.0,345.0,20.6
+2025-09-13,Faris Zakaryia,541.0,71.0,24.3
+2025-09-13,Gabriel Ghetu,765.0,35.0,17.8
+2025-09-13,Hod'abalo isak Padio,,,20.6
+2025-09-13,Zura Tkemaladze,841.0,27.0,25.2
+2025-09-13,Juan Carlos Fuentes Vasquez,1999.0,1.0,19.9
+2025-09-13,Daniel Antonio Nunez,790.0,32.0,24.2
+2025-09-13,Tomas Barrios Vera,134.0,473.0,27.7
+2025-09-13,Cristian Garin,124.0,518.0,29.2
+2025-09-13,Otto Virtanen,141.0,449.0,24.2
+2025-09-13,Yanaki Milev,713.0,41.0,21.3
+2025-09-13,Eero Vasa,504.0,82.0,28.5
+2025-09-13,Alexander Vasilev,992.0,15.0,18.3
+2025-09-13,Tung Lin Wu,291.0,179.0,27.3
+2025-09-13,Aaron Gil Garcia,1361.0,5.0,21.9
+2025-09-13,Alex Knaff,668.0,48.0,27.7
+2025-09-13,Louis Van Herck,1293.0,6.0,26.1
+2025-09-13,Nerman Fatic,239.0,239.0,30.8
+2025-09-13,Andrej Nedic,363.0,140.0,20.8
+2025-09-13,Thiago Seyboth Wild,146.0,420.0,25.4
+2025-09-13,Patrick Agbo Panzo,,,22.6
+2025-09-13,Andres Andrade,344.0,148.0,26.7
+2025-09-13,Alexis Klegou,,,36.6
+2025-09-13,Michael Agwi,522.0,76.0,22.0
+2025-09-13,Peter Buldorini,920.0,20.0,21.0
+2025-09-13,Khumoun Sultanov,402.0,122.0,26.8
+2025-09-13,Tsz Fu Wong,,,19.9
+2025-09-13,Sergey Fomin,492.0,86.0,24.5
+2025-09-13,Cesar Cruz,1400.0,4.0,18.9
+2025-09-13,Marcelo Arevalo,,,34.8
+2025-09-13,Melios Efstathiou,,,
+2025-09-13,Romain Arneodo,,,33.0
+2025-09-13,Stylianos Christodoulou,1770.0,2.0,20.8
+2025-09-13,Elmer Moller,113.0,558.0,22.1
+2025-09-13,Viktor Durasovic,246.0,233.0,28.4
+2025-09-13,Chun Hsin Tseng,120.0,531.0,24.0
+2025-09-13,Stefanos Tsitsipas,27.0,1830.0,27.0
+2025-09-13,Alvaro Guillen Meza,237.0,241.0,22.6
+2025-09-13,Taha Baadi,699.0,43.0,24.1
+2025-09-13,Karim Bennani,1120.0,10.0,18.0
+2025-09-17,Fajing Sun,236.0,241.0,28.9
+2025-09-17,Taro Daniel,168.0,326.0,32.6
+2025-09-17,Billy Harris,131.0,492.0,30.6
+2025-09-17,Coleman Wong,149.0,418.0,21.2
+2025-09-17,Gael Monfils,52.0,975.0,39.0
+2025-09-24,Yosuke Watanuki,147.0,401.0,27.4
+2025-09-24,Sho Shimabukuro,273.0,198.0,28.1
+2025-10-01,Rei Sakamoto,188.0,292.0,19.2
+2025-10-01,August Holmgren,178.0,315.0,27.4
+2025-10-01,Zhizhen Zhang,368.0,135.0,28.9
+2025-10-01,James Trotter,213.0,257.0,26.1
+2025-10-01,Frances Tiafoe,28.0,1640.0,27.6
+2025-10-01,Mariano Navone,86.0,745.0,24.5
+2025-10-01,Yibing Wu,159.0,372.0,25.9
+2025-10-01,Yi Zhou,308.0,170.0,20.5
+2025-10-01,Juan Manuel Cerundolo,87.0,742.0,23.8
+2025-10-01,Christopher Oconnell,109.0,582.0,31.3
+2025-10-01,Jordan Thompson,85.0,745.0,31.4
+2025-10-01,Juncheng Shang,237.0,235.0,20.6
+2025-10-01,Bu Yunchaokete,121.0,531.0,23.6
+2025-10-01,Dalibor Svrcina,91.0,684.0,22.9
+2025-10-01,Yoshihito Nishioka,173.0,324.0,30.0
+2025-10-13,Sebastian Ofner,140.0,463.0,29.4
+2025-10-13,Federico Cina,226.0,247.0,18.5
+2025-10-13,Elias Ymer,243.0,225.0,29.5
+2025-10-13,Marton Fucsovics,55.0,986.0,33.6
+2025-10-13,Leo Borg,622.0,57.0,22.4
+2025-10-13,Jesper De Jong,82.0,760.0,25.3
+2025-10-13,Mark Lajal,149.0,423.0,22.4
+2025-10-13,Giulio Zeppieri,160.0,362.0,23.8
+2025-10-13,Arthur Fery,221.0,251.0,23.2
+2025-10-13,Mikael Ymer,617.0,57.0,27.0
+2025-10-13,Holger Rune,11.0,3090.0,22.4
+2025-10-13,Bernard Tomic,181.0,312.0,32.9
+2025-10-13,Amir Omarkhanov,1137.0,10.0,17.9
+2025-10-13,Mattia Bellucci,71.0,837.0,24.3
+2025-10-13,Beibit Zhukayev,237.0,235.0,25.0
+2025-10-13,Marko Topo,277.0,196.0,22.0
+2025-10-13,Rinky Hijikata,114.0,558.0,24.6
+2025-10-13,Alexander Shevchenko,91.0,687.0,24.8
+2025-10-13,Shintaro Mochizuki,102.0,636.0,22.3
+2025-10-13,James Duckworth,138.0,465.0,33.7
+2025-10-13,Timofey Skatov,236.0,238.0,24.7
+2025-10-13,Luca Nardi,83.0,747.0,22.1
+2025-10-13,Benjamin Bonzi,53.0,1005.0,29.3
+2025-10-13,Nikoloz Basilashvili,101.0,642.0,33.6
+2025-10-13,Gilles Arnaud Bailly,247.0,221.0,20.0
+2025-10-13,Tristan Schoolkate,96.0,662.0,24.6
+2025-10-13,Emil Ruusuvuori,608.0,58.0,26.5
+2025-10-20,Hamad Medjedovic,67.0,875.0,22.2
+2025-10-20,Marin Cilic,89.0,709.0,37.0
+2025-10-20,Jenson Brooksby,55.0,967.0,24.9
+2025-10-20,David Goffin,104.0,609.0,34.8
+2025-10-20,Remy Bertola,268.0,203.0,27.1
+2025-10-20,Henry Bernet,481.0,89.0,18.7
+2025-10-20,Matteo Arnaldi,72.0,818.0,24.6
+2025-10-20,Ugo Humbert,24.0,1880.0,27.3
+2025-10-27,Tomas Machac,34.0,1445.0,25.0
+2025-10-27,Gabriel Diallo,42.0,1228.0,24.0
+2025-10-27,Tallon Griekspoor,25.0,1655.0,29.3
+2025-10-27,Denis Shapovalov,24.0,1928.0,26.5
+2025-10-27,Ethan Quinn,71.0,837.0,21.6
+2025-10-27,Alex Michelsen,35.0,1440.0,21.1
+2025-10-27,Francisco Comesana,68.0,880.0,25.0
+2025-10-27,Fabian Marozsan,48.0,1065.0,26.0
+2025-10-27,Sebastian Baez,43.0,1155.0,24.8
+2025-10-27,Camilo Ugo Carabelli,49.0,1053.0,26.3
+2025-10-27,Grigor Dimitrov,38.0,1330.0,34.4
+2025-10-27,Daniil Medvedev,13.0,2810.0,29.7
+2025-10-27,Karen Khachanov,14.0,2620.0,29.4
+2025-10-27,Alejandro Davidovich Fokina,15.0,2585.0,26.3
+2025-10-27,Andrey Rublev,17.0,2470.0,28.0
+2025-10-27,Valentin Vacherot,40.0,1283.0,26.9
+2025-10-27,Joao Fonseca,28.0,1615.0,19.1
+2025-10-27,Casper Ruud,9.0,3235.0,26.8
+2025-11-02,Novak Djokovic,5.0,4580.0,38.4
+2025-11-02,Mackenzie Mcdonald,110.0,559.0,30.5
+2025-11-02,Brandon Nakashima,33.0,1430.0,24.2
+2025-11-02,Luciano Darderi,26.0,1609.0,23.7
+2025-11-02,Adam Walton,83.0,740.0,26.5
+2025-11-02,Laslo Djere,82.0,746.0,30.4
+2025-11-02,Stefanos Sakellaridis,277.0,194.0,21.1
+2025-11-02,Pedro Martinez,95.0,668.0,28.5
+2025-11-02,Ivan Ivanov,935.0,19.0,17.0
+2025-11-02,Reilly Opelka,50.0,1026.0,28.1
+2025-11-02,Alexei Popyrin,53.0,1000.0,26.2
+2025-11-02,Jacob Fearnley,73.0,793.0,24.3
+2025-11-02,Kamil Majchrzak,68.0,861.0,29.8
+2025-11-02,Alexander Bublik,13.0,2870.0,28.3
+2025-11-02,Dan Added,204.0,276.0,26.5
+2025-11-02,Eliot Spizzirri,96.0,668.0,23.8
+2025-11-02,Botic Van De Zandschulp,80.0,756.0,30.0
+2025-11-02,Alejandro Tabilo,89.0,696.0,28.4
+2025-11-02,Kyrian Jacquet,156.0,386.0,24.4
+2025-11-02,Arthur Cazaux,69.0,836.0,23.1
+2025-11-02,Hugo Gaston,98.0,653.0,25.1
+2025-11-02,Lorenzo Sonego,42.0,1190.0,30.4
+2025-11-02,Marcos Giron,72.0,815.0,32.2
+2025-11-02,Nuno Borges,47.0,1120.0,28.7
+2025-11-02,Yannick Hanfmann,117.0,518.0,33.9
+2025-11-02,Vit Kopriva,92.0,677.0,28.3
+2025-11-02,Sebastian Korda,52.0,1010.0,25.3
+2025-11-02,Miomir Kecmanovic,54.0,985.0,26.1
+2025-11-02,Alexandre Muller,43.0,1190.0,28.7
+2025-11-02,Stan Wawrinka,159.0,372.0,40.6
+2025-11-02,Cameron Norrie,27.0,1573.0,30.1
+2025-11-02,Damir Dzumhur,58.0,925.0,33.4
+2025-11-02,Moez Echargui,140.0,446.0,32.8
+2025-11-02,Luca Van Assche,172.0,333.0,21.4
+2025-11-02,Adrian Mannarino,71.0,817.0,37.3
+2025-11-02,Daniel Altmaier,46.0,1123.0,27.1
+2025-11-02,Aleksandar Vukic,87.0,703.0,29.5
+2025-11-02,Vitaliy Sachko,222.0,256.0,28.3
+2025-11-02,Ugo Blanchet,143.0,433.0,26.8
+2025-11-02,Quentin Halys,84.0,732.0,29.0
+2025-11-02,Clement Tabur,243.0,226.0,25.7
+2025-11-02,Giovanni Mpetshi Perricard,59.0,925.0,22.3
+2025-11-02,Aleksandar Kovacevic,62.0,902.0,27.1
+2025-11-02,Valentin Royer,56.0,936.0,24.4
+2025-11-02,Terence Atmane,66.0,874.0,23.8
+2025-11-02,Jan Choinski,126.0,487.0,29.3
+2025-11-02,Francesco Passaro,129.0,480.0,24.8
+2025-11-09,Jannik Sinner,2.0,10000.0,24.2
+2025-11-09,Carlos Alcaraz,1.0,11050.0,22.5
+2025-11-09,Alex De Minaur,7.0,3935.0,26.7
+2025-11-09,Lorenzo Musetti,9.0,3840.0,23.6
+2025-11-09,Ben Shelton,5.0,3970.0,23.0
+2025-11-09,Taylor Fritz,6.0,3935.0,28.0
+2025-11-09,Felix Auger Aliassime,8.0,3845.0,25.2
+2025-11-18,Corentin Moutet,35.0,1408.0,26.5
+2025-11-18,Arthur Rinderknech,29.0,1540.0,30.3
+2025-11-19,Filip Misolic,79.0,726.0,24.2
+2025-11-19,Jurij Rodionov,177.0,329.0,26.5
+2025-11-20,Jiri Lehecka,17.0,2325.0,24.0
+2025-11-20,Jakub Mensik,19.0,2180.0,20.2
+2025-11-20,Tomas Martin Etcheverry,60.0,920.0,26.3
+2025-11-20,Francisco Cerundolo,21.0,2085.0,27.2
+2025-11-21,Zizou Bergs,43.0,1218.0,26.4
+2025-11-21,Raphael Collignon,86.0,704.0,23.8
+2025-11-22,Jan Lennard Struff,84.0,711.0,35.5
+2025-11-22,Alexander Zverev,3.0,5160.0,28.5
+2025-11-23,Matteo Berrettini,56.0,945.0,29.5
+2025-11-23,Jaume Munar,36.0,1395.0,28.5
+2025-11-23,Pablo Carreno Busta,89.0,681.0,34.3
+2025-11-23,Flavio Cobolli,22.0,2025.0,23.5
+2025-12-17,Alexander Blockx,116.0,542.0,20.6
+2025-12-17,Dino Prizmic,128.0,487.0,20.3
+2025-12-17,Rafael Jodar,168.0,349.0,19.2
+2025-12-17,Learner Tien,28.0,1550.0,20.0
+2025-12-17,Martin Landaluce,134.0,455.0,19.9
+2025-12-17,Nicolai Budkov Kjaer,136.0,450.0,19.2
+2025-12-17,Justin Engel,187.0,316.0,18.2
+2025-12-17,Nishesh Basavareddy,167.0,349.0,20.6
