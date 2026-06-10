@@ -4,12 +4,17 @@ import joblib
 
 MODEL_PATH = "models/acepredict_v1.pkl"
 PLAYERS_PATH = "data/processed/latest_players.csv"
+MATCHES_PATH = "data/processed/all_matches.csv"
 
 
 model = joblib.load(MODEL_PATH)
 
 latest_players = pd.read_csv(
     PLAYERS_PATH
+)
+
+all_matches = pd.read_csv(
+    MATCHES_PATH
 )
 
 
@@ -23,6 +28,46 @@ def get_player_stats(player_name):
         return None
 
     return player.iloc[0]
+
+
+def get_head_to_head(
+    player_a,
+    player_b
+):
+
+    matches = all_matches[
+        (
+            (all_matches["winner_name"] == player_a)
+            &
+            (all_matches["loser_name"] == player_b)
+        )
+        |
+        (
+            (all_matches["winner_name"] == player_b)
+            &
+            (all_matches["loser_name"] == player_a)
+        )
+    ]
+
+    player_a_wins = len(
+        matches[
+            matches["winner_name"] == player_a
+        ]
+    )
+
+    player_b_wins = len(
+        matches[
+            matches["winner_name"] == player_b
+        ]
+    )
+
+    return {
+        "player_a": player_a,
+        "player_b": player_b,
+        "player_a_wins": int(player_a_wins),
+        "player_b_wins": int(player_b_wins),
+        "total_matches": int(len(matches))
+    }
 
 
 def get_confidence(probability):
@@ -43,10 +88,18 @@ def get_confidence(probability):
         return "Very Low"
 
 
-def predict_players(player_a, player_b):
+def predict_players(
+    player_a,
+    player_b
+):
 
-    player_a_stats = get_player_stats(player_a)
-    player_b_stats = get_player_stats(player_b)
+    player_a_stats = get_player_stats(
+        player_a
+    )
+
+    player_b_stats = get_player_stats(
+        player_b
+    )
 
     if player_a_stats is None:
         return f"Player not found: {player_a}"
