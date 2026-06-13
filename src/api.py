@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 
 from predictor import (
     predict_players,
@@ -6,21 +7,17 @@ from predictor import (
     get_head_to_head
 )
 
-
 app = Flask(__name__)
-
+CORS(app)
 
 @app.route("/")
 def home():
-
     return {
         "message": "AcePredict API Running"
     }
 
-
 @app.route("/predict", methods=["POST"])
 def predict():
-
     data = request.get_json()
 
     player_a = data["player_a"]
@@ -33,16 +30,13 @@ def predict():
 
     return jsonify(result)
 
-
 @app.route("/player/<player_name>")
 def player_profile(player_name):
-
     player = get_player_stats(
         player_name
     )
 
     if player is None:
-
         return jsonify({
             "error": "Player not found"
         }), 404
@@ -51,15 +45,8 @@ def player_profile(player_name):
         player.to_dict()
     )
 
-
-@app.route(
-    "/headtohead/<player_a>/<player_b>"
-)
-def head_to_head(
-    player_a,
-    player_b
-):
-
+@app.route("/headtohead/<player_a>/<player_b>")
+def head_to_head(player_a, player_b):
     result = get_head_to_head(
         player_a,
         player_b
@@ -67,9 +54,16 @@ def head_to_head(
 
     return jsonify(result)
 
+@app.route("/head-to-head/<player_a>/<player_b>")
+def head_to_head_alias(player_a, player_b):
+    result = get_head_to_head(
+        player_a,
+        player_b
+    )
+
+    return jsonify(result)
 
 if __name__ == "__main__":
-
     app.run(
         debug=True
     )

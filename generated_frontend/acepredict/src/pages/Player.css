@@ -1,0 +1,19 @@
+.player-search {
+  display: flex;
+  gap: 12px;
+  max-width: 520px;
+  margin-top: 40px;
+}
+
+.player-search .player-select-group {
+  flex: 1;
+}
+
+.player-search .btn {
+  align-self: flex-end;
+}
+
+.player-result {
+  margin-top: 32px;
+  max-width: 420px;
+}

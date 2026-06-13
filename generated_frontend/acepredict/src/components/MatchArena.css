@@ -1,0 +1,237 @@
+.arena {
+  position: relative;
+  padding: 56px 0 80px;
+  overflow: hidden;
+}
+
+.arena::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, var(--border-strong) 20%, var(--border-strong) 80%, transparent);
+  z-index: 0;
+}
+
+.arena-eyebrow-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 28px;
+}
+
+.arena-eyebrow-row .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 8px var(--accent);
+}
+
+.arena-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 24px;
+  z-index: 1;
+}
+
+.arena-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 16px;
+  padding: 32px 24px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.arena-player.winner {
+  border-color: rgba(59, 185, 255, 0.35);
+  background: linear-gradient(160deg, rgba(59, 185, 255, 0.08), var(--bg-elevated) 60%);
+  box-shadow: 0 0 0 1px rgba(59, 185, 255, 0.1), 0 24px 60px -20px rgba(59, 185, 255, 0.25);
+  transform: scale(1.04);
+}
+
+.arena-player.loser {
+  opacity: 0.72;
+  transform: scale(0.97);
+}
+
+.arena-avatar {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  background: var(--navy);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--silver);
+  border: 2px solid var(--border-strong);
+  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.arena-player.winner .arena-avatar {
+  width: 108px;
+  height: 108px;
+  font-size: 34px;
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 0 32px rgba(59, 185, 255, 0.3);
+}
+
+.arena-player.loser .arena-avatar {
+  width: 76px;
+  height: 76px;
+  font-size: 24px;
+}
+
+.arena-name {
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--silver);
+}
+
+.arena-player.loser .arena-name {
+  color: var(--silver-dim);
+  font-size: 18px;
+}
+
+.arena-prob {
+  font-family: var(--font-display);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.arena-player.winner .arena-prob {
+  color: var(--accent);
+  font-size: 60px;
+}
+
+.arena-player.loser .arena-prob {
+  color: var(--silver-dim);
+  font-size: 36px;
+}
+
+.arena-tag {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border-strong);
+  color: var(--silver-dim);
+}
+
+.arena-player.winner .arena-tag {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-dim);
+}
+
+.arena-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 0 8px;
+}
+
+.arena-vs {
+  font-family: var(--font-display);
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--silver-dim);
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  border: 1px solid var(--border-strong);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+}
+
+.arena-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  text-align: center;
+}
+
+.arena-meta-row {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--silver-dim);
+}
+
+.arena-confidence {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.arena-bar-row {
+  margin-top: 36px;
+}
+
+.arena-footer-actions {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 36px;
+}
+
+.arena-skeleton {
+  height: 320px;
+  border-radius: var(--radius-lg);
+}
+
+@media (max-width: 880px) {
+  .arena-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .arena::before {
+    display: none;
+  }
+
+  .arena-center {
+    order: 2;
+  }
+
+  .arena-player.winner,
+  .arena-player.loser {
+    transform: none;
+  }
+
+  .arena-player.winner .arena-avatar {
+    width: 92px;
+    height: 92px;
+    font-size: 28px;
+  }
+
+  .arena-player.winner .arena-prob {
+    font-size: 48px;
+  }
+}

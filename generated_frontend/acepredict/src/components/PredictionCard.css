@@ -1,0 +1,70 @@
+.prediction-card {
+  padding: 36px;
+}
+
+.prediction-card-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.prediction-card-title {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--silver);
+}
+
+.prediction-card-summary {
+  font-size: 14px;
+  color: var(--silver-dim);
+  margin-bottom: 28px;
+  line-height: 1.6;
+}
+
+.prediction-card-summary strong {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.prediction-stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-top: 28px;
+}
+
+.prediction-stat {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+}
+
+.prediction-stat-label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--silver-dim);
+  margin-bottom: 8px;
+}
+
+.prediction-stat-value {
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--silver);
+}
+
+.prediction-stat-value.accent {
+  color: var(--accent);
+}
+
+@media (max-width: 600px) {
+  .prediction-stats {
+    grid-template-columns: 1fr;
+  }
+}
