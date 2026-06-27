@@ -1,16 +1,57 @@
-# React + Vite
+# AcePredict — Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-powered tennis analytics and match prediction platform. React + Vite frontend that
+connects to the AcePredict Flask API.
 
-Currently, two official plugins are available:
+## Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React 19 + Vite
+- React Router
+- Plain CSS with design tokens (no UI framework)
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+cp .env.example .env.local   # set VITE_API_BASE_URL to your backend URL
+npm run dev
+```
 
-## Expanding the ESLint configuration
+## Build
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm run build
+```
+
+## Project Structure
+
+```
+src/
+  assets/        Logo and static assets
+  components/    Navbar, MatchArena, PredictionCard, ProbabilityBar,
+                  HeadToHeadCard, PlayerCard, PlayerSelect, Footer
+  pages/         Home, Predict, HeadToHead, Player
+  services/      api.js (Flask API client), players.js (roster for selectors)
+  router/        Route definitions
+```
+
+## API
+
+The frontend expects a Flask backend exposing:
+
+- `GET /` — health check
+- `GET /player/<player_name>`
+- `GET /head-to-head/<player_a>/<player_b>`
+- `POST /predict` — body: `{ player_a, player_b }`
+
+Set the backend base URL via `VITE_API_BASE_URL` (defaults to `http://localhost:5000`).
+The backend must enable CORS for the frontend's origin.
+
+## Pages
+
+- `/` — Homepage with the Match Arena hero (live featured prediction), feature
+  highlights and stats.
+- `/predict` — Prediction Center: select two players, run a prediction.
+- `/head-to-head` — Head-to-Head Explorer: compare two players' historical record.
+- `/player` — Player Intelligence: search a player's ranking, points, age and last
+  tournament date.
